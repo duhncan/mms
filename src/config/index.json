@@ -1,0 +1,169 @@
+{
+  "company": {
+    "name": "React landing page 2021",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Product",
+      "href": "product"
+    },
+    {
+      "name": "Features",
+      "href": "features"
+    },
+
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "The Mummy Mindset Coach",
+    "subtitle": "Doula Services",
+    "description": "Your Compassionate Guide to Prenatal and Postpartum Care! 🌟 Our experienced doulas are here to support you through every step of your journey to motherhood. From personalized prenatal assistance to nurturing postpartum care, we provide a holistic approach to ensure you feel empowered and cherished during this transformative time. Explore our services, meet our dedicated team, and discover the nurturing care that awaits you and your growing family. Let us be your trusted companions on the beautiful adventure of pregnancy and beyond. Embrace the support you deserve with Our Doula Services.",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "Contact Us",
+      "href": "mailto:info@themummymindsetcoach.com.au?subject=I would like to know about your services!"
+    }
+  },
+  "features": {
+    "title": "Our list of services",
+    "subtitle": "How we care for you!",
+    "description": "While doulas primarily provide services rather than physical products, there are complementary products that a doula-focused business might offer to enhance the overall experience for expectant and new mothers. ",
+    "items": [
+      {
+        "name": "Prenatal Education and Counseling",
+        "description": "Personalized childbirth education sessions. Assistance in creating birth plans and understanding various birthing options",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Labor Support",
+        "description": "Continuous emotional support during labor. Comfort measures and pain relief techniques. Advocacy for the mother's preferences and needs.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Postpartum Support",
+        "description": "Emotional and physical support during the postpartum period. Assistance with breastfeeding and newborn care. Help with postpartum recovery and self-care.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Doula Packages",
+        "description": "Comprehensive doula packages that may include both prenatal and postpartum support. Tailored services based on individual needs and preferences.",
+        "icon": "/assets/images/ts.png"
+      },
+      {
+        "name": "Virtual Doula Services",
+        "description": "Online consultations and support for those unable to have in-person assistance. Virtual education sessions and check-ins.",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "product": {
+    "title": "Prenatal & Postpartum Care and Doula Services",
+    "items": [
+      {
+        "title": "Prenatal Education and Counseling",
+        "description": "Personalized childbirth education sessions. Assistance in creating birth plans and understanding various birthing options",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Labor Support",
+        "description": "Continuous emotional support during labor. Comfort measures and pain relief techniques. Advocacy for the mother's preferences and needs.",
+        "img": "/assets/images/product2.jpg"
+      },
+      {
+        "title": "Postpartum Support",
+        "description": "Emotional and physical support during the postpartum period. Assistance with breastfeeding and newborn care. Help with postpartum recovery and self-care.",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Doula Packages",
+        "description": "Comprehensive doula packages that may include both prenatal and postpartum support. Tailored services based on individual needs and preferences.",
+        "img": "/assets/images/product2.jpg"
+      },
+      {
+        "title": "Virtual Doula Services",
+        "description": "Online consultations and support for those unable to have in-person assistance. Virtual education sessions and check-ins.",
+        "img": "/assets/images/product1.jpg"
+      }
+      
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Pregnancy Wellness Kits",
+        "price": "$200",
+        "priceDetails": "starting at",
+        "features": [
+          "Educational Material (Digital or Hard Copy)",
+          "Skin Care Products",
+          "Relaxation Tools"
+        ]
+      },
+      {
+        "name": "Educational Materials",
+        "price": "$300",
+        "priceDetails": "basic kit",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "10 GB of storage",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Doula Sessions",
+        "price": "$330",
+        "priceDetails": "starting at",
+        "features": [
+          "3 x 1 on 1 Sessions (Virtual or in person)",
+          "Phone and Email support",
+          "Lots of educational material"
+        ]
+      },
+      {
+        "name": "Subscription Boxes",
+        "price": "$100",
+        "priceDetails": "per month",
+        "features": [
+          "Latest education material",
+          "Sample of Skin Care Products",
+          "Sample of Clothing and Loungewear",
+          "Sample of Essential Oils"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Email",
+        "href": "mailto:info@themummymindsetcoach.com.au?subject=I would like to know about your services!",
+        "content": "Email"
+      },
+      {
+        "name": "Call Us",
+        "href": "#",
+        "content": "Phone Number"
+      }
+    ],
+    "socialMedia": {
+      "instagram": "#",
+      "facebook": "#",
+      "linkedin": "#"
+    }
+  }
+}
